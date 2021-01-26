@@ -55,7 +55,7 @@ EFI for Dell Vostro 5491 with OpenCore bootloader
 - [x] Controller NVME PciE Gen3x4 
 - [x] Micro SD Cardreader (USB-Internal)
 - [x] WebCam (USB-Internal)
-- [x] All Sensors CPU, IGPU, BATTERY, NVME, FAN
+- [x] All Sensors CPU, IGPU, BATTERY, NVME, SATA, FAN
 - [x] ACPI Battery
 - [x] Apple VTD
 - [x] NVRAM (Native)
