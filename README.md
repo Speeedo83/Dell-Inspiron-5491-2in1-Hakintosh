@@ -5,11 +5,9 @@
 
 # DELL Inspiron 5491 2in1 (Comet Lake) Hackintosh
 
-
-
 EFI for Dell Vostro 5491 with OpenCore bootloader
 
-![](EFI.zip)
+![descrizione](./Images/DellInspiron14-5491-2in1__1_.JPG)
 
 
 ### Computer Spec:
