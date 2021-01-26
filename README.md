@@ -45,7 +45,8 @@ EFI for Dell Vostro 5491 with OpenCore bootloader
 - [x] All USB-A 3.1 Ports (TYPE-C 3.2 Included)
 - [x] SpeedStep / Sleep / Wake
 - [x] HID Key PWRB & SLPB 
-- [x] I2C Touchpad with gesture
+- [x] I2C Touch pad with gesture
+- [x] I2C Touch Screen
 - [x] Keyboard (PS2-Internal) with backlight
 - [x] F6 & F7 Brightness Key
 - [x] F10 Print Screen Key
