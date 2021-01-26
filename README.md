@@ -15,7 +15,7 @@ EFI for Dell Vostro 5491 with OpenCore bootloader
 
 | Component        | Brank                              |
 | ---------------- | ---------------------------------- |
-| CPU              | Intel i7 10510U (4C-8T 8MB Comet)  |
+| CPU              | Intel i7 10510U (4C-8T 8MB CML)    |
 | iGPU             | Intel® Graphics Graphics UHD       |
 | Audio            | Realtek ALC236                     |
 | Ram              | 16 GB DDR4 2666 Mhz                |
