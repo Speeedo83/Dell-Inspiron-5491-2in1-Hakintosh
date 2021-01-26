@@ -37,7 +37,7 @@ EFI for Dell Vostro 5491 with OpenCore bootloader
 - [x] IIntel Graphics UHD iGPU Type-C to HDMI Output
 - [x] ALC236 Internal Speakers
 - [ ] ALC236 Internal microphone
-- [x] USE Microphones USB
+- [x] USB MINI Dongle Microphones
 - [x] ALC236 Combojack headphones
 - [ ] ALC236 Combojack microphone
 - [x] ALC236 HDMI Audio Output
@@ -51,8 +51,8 @@ EFI for Dell Vostro 5491 with OpenCore bootloader
 - [x] F10 Print Screen Key
 - [x] F1 & F2 & F3 Sound Key
 - [x] Wi-Fi and Bluetooth BCM94360NG Module
-- [x] SSD Slot-1 PciE Gen3x4
-- [x] SSD NVME Slot-2 PciE Gen3x4 
+- [x] Controller SATA III
+- [x] Controller NVME PciE Gen3x4 
 - [x] Micro SD Cardreader (USB-Internal)
 - [x] WebCam (USB-Internal)
 - [x] All Sensors CPU, IGPU, BATTERY, NVME, FAN
