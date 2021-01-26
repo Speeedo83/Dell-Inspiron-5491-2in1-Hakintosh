@@ -21,7 +21,7 @@ EFI for Dell Vostro 5491 with OpenCore bootloader
 | Ram              | 16 GB DDR4 2666 Mhz                |
 | Wifi + Bluetooth | BCM94360NG Fenvi                   |
 | NVMe             | HYNIX BC511 512 GB (MACOS)         |
-| NVME             | SPCC Silicon Power 1T (WIN).       |
+| NVME             | SPCC Silicon Power 1TB (WINDOWS)   |
 | SmBios           | MacBookPro 16,3                    |
 | BootLoader       | OpenCore 0.6.5                     |
 | macOS            | Big Sur 11.1                       |
