@@ -26,6 +26,7 @@ EFI for Dell Vostro 5491 with OpenCore bootloader
 | macOS            | Big Sur 11.1                       |
 
 
+
 ![info-mac](./Images/Sistem%20Info.png)
 
 ### What works and What doesn't or WIP:
