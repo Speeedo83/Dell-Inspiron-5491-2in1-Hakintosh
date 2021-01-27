@@ -74,6 +74,7 @@ EFI for Dell Inspiron 5491 with OpenCore bootloader
 ![speedtest](./Screenshot/speedtest.png)
 ![CPU](./Screenshot/CPU.png)
 ![metal](./Screenshot/metal.png)
+![videoproc](./Screenshot/videoproc.png)
 
 
 ### Special Config:/Users/mario/Desktop/image
