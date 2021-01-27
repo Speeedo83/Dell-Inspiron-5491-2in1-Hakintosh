@@ -83,7 +83,7 @@ EFI for Dell Inspiron 5491 with OpenCore bootloader
 - SSDT-Hack Essential patch
 - Applied cosmetics PCI Dev
 
-See IORegSee [ioreg](https://github.com/Speeedo83/Dell-Inspiron-5491-2in1-Hakintosh/raw/main/ioregMacBookPro.zip) for more clarification
+See IOReg [ioreg](https://github.com/Speeedo83/Dell-Inspiron-5491-2in1-Hakintosh/raw/main/ioregMacBookPro.zip) for more clarification
 
 
 ### MacOS bootable USB creation:
