@@ -68,6 +68,7 @@ EFI for Dell Inspiron 5491 with OpenCore bootloader
 ![infohack](./Screenshot/periferiche.png)
 ![infopci](./Screenshot/pci-dev.png)
 ![touchpad](./Screenshot/touchpad.png)
+![trascinamento](./Screenshot/trascinamento.png)
 ![Temp-Fan-Control](./Screenshot/Temp-Fan-Control.png)
 ![speedtest](./Screenshot/speedtest.png)
 ![CPU](./Screenshot/CPU.png)
