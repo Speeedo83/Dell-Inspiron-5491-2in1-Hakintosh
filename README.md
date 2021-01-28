@@ -37,13 +37,13 @@ EFI for Dell Inspiron 5491 with OpenCore bootloader
 - [x] IIntel Graphics UHD iGPU Type-C to HDMI Output
 - [x] ALC236 Internal Speakers
 - [ ] ALC236 Internal microphone (Digital Mic Intel SST not compatible)
-- [x] USB MINI Dongle Microphones
+- [x] USB MINI Dongle Microphones  *
 - [x] ALC236 Combojack headphones
 - [ ] ALC236 Combojack microphone (WIP)
 - [x] ALC236 HDMI Audio Output
 - [x] ALC236 TYPE-C to HDMI Audio Output
 - [x] All USB-A 3.1 Ports (TYPE-C 3.2 Included)
-- [x] SpeedStep / Sleep / Wake
+- [x] SpeedStep / Sleep / Wake **
 - [x] HID Key PWRB & SLPB 
 - [x] I2C Touch pad with gesture
 - [x] I2C Touch Screen
@@ -74,6 +74,11 @@ I use a USB dongle and it works perfectly.
 
 
 ![usbdongle](./Screenshot/usbdongle.png)       ![usbmic](./Screenshot/usbmic.png)
+
+## All Apple native shortcuts for sleep, log out and Shut Down
+
+![stopawake](./Screenshot/stopawake.png)
+
 
 ## CPU Performance by CPU Friend settings
 
