@@ -8,7 +8,7 @@
 
 EFI for Dell Inspiron 5491 with OpenCore bootloader
 
-![descrizione](./Screenshot/pc.jpg)
+![descrizione](./Screenshot/pc.png)
 
 
 ### Computer Spec:
