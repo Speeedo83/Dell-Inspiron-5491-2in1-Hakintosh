@@ -70,6 +70,12 @@ I use a USB dongle and it works perfectly.
 
 ![usbdongle](./Screenshot/usbdongle.png)       ![usbmic](./Screenshot/usbmic.png)
 
+## CPU Performance by CPU Friend settings
+
+![cpufreq](./Screenshot/cpufreq.png)
+
+See [CPUFriend](https://github.com/acidanthera/CPUFriend) For more info 
+
 
 ## Peripherals & TouchPad Setting & Benchmarks
 
