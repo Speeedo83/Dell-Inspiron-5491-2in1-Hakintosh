@@ -67,6 +67,7 @@ EFI for Dell Inspiron 5491 with OpenCore bootloader
 
 ![GUIOC](./Screenshot/GUIOC.png)
 
+## Trik Mic Fix
 * USB Dongle Mic:
 At the moment there is no fix for the internal microphone and combojack microphone, as both are managed by the SST (Smart Sound Technology Intel) drive.
 I use a USB dongle and it works perfectly.
