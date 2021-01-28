@@ -89,9 +89,7 @@ See [CPUFriend](https://github.com/acidanthera/CPUFriend) For more info
 ![CPU](./Screenshot/CPU.png)
 ![metal](./Screenshot/metal.png)
 ![videoproc](./Screenshot/videoproc.png)
-![testram](./Screenshot/testram.png)
-![testnvme](./Screenshot/testnvme.png)
-![testssd](./Screenshot/testssd.png)
+![test](./Screenshot/teststorage.png)
 
 
 ### Special Config:/Users/mario/Desktop/image
