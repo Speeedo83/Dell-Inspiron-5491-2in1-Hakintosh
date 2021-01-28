@@ -8,6 +8,8 @@
 
 EFI for Dell Inspiron 5491 with OpenCore bootloader
 
+(Compatible for Dell Inspiron 5491/5591, these laptops use the same bios file)
+
 ![descrizione](./Screenshot/pc.png)
 
 
