@@ -63,6 +63,10 @@ EFI for Dell Inspiron 5491 with OpenCore bootloader
 - [x] Recovery (macOS) boot from OpenCore
 - [x] Windows 10 boot from OpenCore
 
+## OpenCore 0.6.5 Custum Gui by HachintoshLife
+
+![GUIOC](./Screenshot/GUIOC.png)
+
 * USB Dongle Mic:
 At the moment there is no fix for the internal microphone and combojack microphone, as both are managed by the SST (Smart Sound Technology Intel) drive.
 I use a USB dongle and it works perfectly.
