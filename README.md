@@ -141,7 +141,7 @@ See [ioreg](https://github.com/Speeedo83/Dell-Inspiron-5491-2in1-Hakintosh/raw/m
 ![CFG-Lock](./Screenshot/CFG-Lock.png) 
 
 ## Color profile icc with SpiderX Datacolor Pro (Standard ambient light) Screen brightness 80% 
-See [calibrazione](/Dell Inspire5491.icc)
+See [calibrazione](https://github.com/Speeedo83/Dell-Inspiron-5491-2in1-Hakintosh/blob/main/Dell%20Inspire5491.icc)
  
 
 ## Credits
