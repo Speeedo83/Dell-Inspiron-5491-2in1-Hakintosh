@@ -81,6 +81,10 @@ I use a USB dongle and it works perfectly.
 
 ![stopawake](./Screenshot/stopawake.png)
 
+##Performance Sleep
+
+![sleep](./Screenshot/sleep.png)
+
 
 ## CPU Performance by CPU Friend settings
 
