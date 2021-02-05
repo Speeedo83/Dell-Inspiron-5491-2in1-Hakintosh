@@ -148,9 +148,7 @@ Create a usb in FAT with MBR map and put ru.efi in it then go to the bios, and c
 Restart and press f12 among the entries you will have the last created, click any key, then click alt + ì a menu will appear and scroll to CpuSetup and click enter, in the new screen go with the arrows on the value and change it from 01 to 00 and click enter and then ctrl + w to save and then alt + q to exit. proceed to check if your CFG LOCK is unlocked.
 ![CFG](./Screenshot/CFG.png)
 
-
-
-![CFG-Lock](./Screenshot/CFG-Lock.png) 
+For the 2 DVMT values you have to go to the SaSetup menu and enter
 
 ## Color profile icc with SpiderX Datacolor Pro (Standard ambient light) Screen brightness 80% 
 See [calibrazione](https://github.com/Speeedo83/Dell-Inspiron-5491-2in1-Hakintosh/blob/main/Dell%20Inspire5491.icc)
