@@ -151,6 +151,7 @@ Restart and press f12 among the entries you will have the last created, click an
 For the 2 DVMT values you have to go to the SaSetup menu and enter.
 Look The picture and set:
 ![DVTM](./Screenshot/DVTM.png)
+save with ctrl + w and to exit alt + q and you will have the suitable DVMT values to the igpu
 
 
 ## Color profile icc with SpiderX Datacolor Pro (Standard ambient light) Screen brightness 80% 
