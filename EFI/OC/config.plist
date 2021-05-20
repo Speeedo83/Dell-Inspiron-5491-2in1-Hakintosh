@@ -773,7 +773,7 @@
 			<key>PickerAttributes</key>
 			<integer>17</integer>
 			<key>PickerAudioAssist</key>
-			<true/>
+			<false/>
 			<key>PickerMode</key>
 			<string>External</string>
 			<key>PickerVariant</key>
@@ -854,24 +854,6 @@
 				<string>UEFI Shell</string>
 				<key>Path</key>
 				<string>OpenShell.efi</string>
-				<key>RealPath</key>
-				<false/>
-				<key>TextMode</key>
-				<false/>
-			</dict>
-			<dict>
-				<key>Arguments</key>
-				<string></string>
-				<key>Auxiliary</key>
-				<true/>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>Name</key>
-				<string>VerifyMsrE2</string>
-				<key>Path</key>
-				<string>VerifyMsrE2.efi</string>
 				<key>RealPath</key>
 				<false/>
 				<key>TextMode</key>
@@ -972,11 +954,11 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02019700QX00001F</string>
+			<string>C02001700GU00008C</string>
 			<key>ProcessorType</key>
-			<integer>0</integer>
+			<integer>1793</integer>
 			<key>ROM</key>
-			<data>fyLJ2U9+</data>
+			<data>oUtW6Sp7</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -984,9 +966,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro16,3</string>
 			<key>SystemSerialNumber</key>
-			<string>C02CP0CKP3XY</string>
+			<string>C02C28YZP3XY</string>
 			<key>SystemUUID</key>
-			<string>4F3A8C6B-C99A-4D33-9A58-7D3192D94F7E</string>
+			<string>C94D850E-A24A-4CFB-981F-30CBE6E92A7B</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
@@ -1021,7 +1003,7 @@
 			<key>AppleEvent</key>
 			<string>Auto</string>
 			<key>CustomDelays</key>
-			<string>Auto</string>
+			<false/>
 			<key>KeyInitialDelay</key>
 			<integer>0</integer>
 			<key>KeySubsequentDelay</key>
@@ -1153,12 +1135,18 @@
 			<false/>
 			<key>DisableSecurityPolicy</key>
 			<false/>
+			<key>EnableVectorAcceleration</key>
+			<false/>
 			<key>ExitBootServicesDelay</key>
 			<integer>0</integer>
+			<key>ForgeUefiSupport</key>
+			<false/>
 			<key>IgnoreInvalidFlexRatio</key>
 			<false/>
 			<key>ReleaseUsbOwnership</key>
 			<true/>
+			<key>ReloadOptionRoms</key>
+			<false/>
 			<key>RequestBootVarRouting</key>
 			<true/>
 			<key>TscSyncTimeout</key>

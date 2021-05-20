@@ -25,8 +25,8 @@ EFI for Dell Inspiron 5491 with OpenCore bootloader
 | NVMe             | HYNIX BC511 512 GB (MACOS)         |
 | SSD Sata         | SPCC Silicon Power 1TB (WINDOWS)   |
 | SmBios           | MacBookPro 16,3                    |
-| BootLoader       | OpenCore 0.6.5                     |
-| macOS            | Big Sur 11.1                       |
+| BootLoader       | OpenCore 0.6.9                     |
+| macOS            | Big Sur 11.3.1                     |
 
 
 
@@ -65,7 +65,7 @@ EFI for Dell Inspiron 5491 with OpenCore bootloader
 - [x] Recovery (macOS) boot from OpenCore
 - [x] Windows 10 boot from OpenCore
 
-## OpenCore 0.6.5 Custum Gui by HachintoshLife
+## OpenCore 0.6.9 Custum Gui by HachintoshLife
 
 ![GUIOC](./Screenshot/GUIOC.png)
 
