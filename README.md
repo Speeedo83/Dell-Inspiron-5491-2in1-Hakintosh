@@ -163,6 +163,7 @@ See [calibrazione](https://github.com/Speeedo83/Dell-Inspiron-5491-2in1-Hakintos
 - [Apple](https://apple.com) for macOS.
 - [Acidanthera](https://github.com/acidanthera) for OpenCore and all the lovely hackintosh work.
 - [Dortania](https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/icelake.html) For great and detailed guides.
+- [Lorys89](https://github.com/Lorys89/) for making this hack perfect. 
 - [Hackintoshlifeit](https://github.com/Hackintoshlifeit) Support group for installation and post installation.
 
 # If you need help please contact us on [Telegram](https://t.me/HackintoshLife_it) or [Web](https://www.hackintoshlife.it/)
