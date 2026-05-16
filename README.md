@@ -26,7 +26,7 @@ EFI for Dell Inspiron 5491 with OpenCore bootloader
 | SSD Sata         | SPCC Silicon Power 1TB (WINDOWS)   |
 | SmBios           | MacBookPro 16,3                    |
 | BootLoader       | OpenCore 0.6.9                     |
-| macOS            | Big Sur 11.3.1                     |
+| macOS            | Sonoma 14.8.5 (23J423)             |
 
 
 
